@@ -6,8 +6,7 @@ add product with admin panel, create account, login, display error message, send
 forgotpassword, etc function are available on this site
 this website build with django, html, css, bootstrap, and my sql. 
 
-installation step:
-step 1: download python 
+installation step 1: download python 
 
 step 2: download ittools website zip file and extract file.
 
