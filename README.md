@@ -5,3 +5,12 @@ this project are full functional.provide a search functionality, display categor
 add product with admin panel, create account, login, display error message, send order confirmation notification with email,
 forgotpassword, etc function are available on this site
 this website build with django, html, css, bootstrap, and my sql. 
+
+installation step:
+step 1: download python 
+
+step 2: download ittools website zip file and extract file.
+
+step 3: open mac folder and install requirements.txt with python
+
+step 4: run "python manage.py runserver" cammand and go to the displayed link.
